@@ -19,4 +19,4 @@ The dataset consists of 230 entries, each representing a country or region. The 
 - **Tests/1M pop:** The number of tests conducted per 1 million people.
 - **Population:** The population of the country or region.
 
-You can view the [COVID-19 Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17239995903290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for more detailed insights and visualizations.
+You can view the [COVID-19 Dashboard](https://public.tableau.com/shared/BPMFK9RZZ?:display_count=n&:origin=viz_share_link) for more detailed insights and visualizations.
